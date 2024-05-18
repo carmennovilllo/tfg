@@ -1,6 +1,6 @@
 <html>
 <body>
-Hola <?php echo $_POST["user"]; ?><br>
+Hola <?php echo $_POST["username"]; ?><br>
 Tu contraseña es: <?php echo $_POST["password"]; ?>
 </body>
 </html>
